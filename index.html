@@ -183,6 +183,73 @@
 	</div>
 
 
+ <!-- Language chart -->
+    
+<html>
+<head>
+  <title>Pie Chart</title>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/3.7.0/chart.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/chartjs-plugin-datalabels"></script>
+  <style>
+    canvas {
+      display: block;
+      margin: auto; /* Centers the canvas horizontally */
+      margin-top: 0px; /* Adjust as needed */
+      margin-right: 0%; /* Adjust as needed */
+	  margin-bottom: 0%;
+	  margin-inline-start: 25%;
+    }
+  </style>
+</head>
+<body>
+  <canvas id="myPieChart" width="300" height="300"></canvas>
+  <script>
+    var ctx = document.getElementById('myPieChart').getContext('2d');
+    var myPieChart = new Chart(ctx, {
+      type: 'pie',
+      data: {
+        labels: ['Arabic', 'English','French', ' Chinese', 'Germany'],
+        datasets: [{
+          label: 'My First Dataset',
+          data: [100, 75, 15, 5, 2],
+          backgroundColor: [
+            'rgba(169, 169, 169, 0.7)', // Dark Gray
+            'rgba(220, 220, 220, 0.7)', // Light Gray
+            'rgba(128, 128, 128, 0.7)', // Gray
+            'rgba(192, 192, 192, 0.7)', // Silver
+            'rgba(70, 70, 70, 0.7)'   ,   // Dimmer Gray
+            
+            
+           
+          ],
+          borderColor: [
+            'rgba(220, 220, 220, 1)',
+            'rgba(192, 192, 192, 1)',
+            'rgba(169, 169, 169, 1)',
+            'rgba(128, 128, 128, 1)',
+            'rgba(105, 105, 105, 1)',
+            'rgba(70, 70, 70, 1)'
+          ],
+          borderWidth: 1
+        }]
+      },
+      options: {
+        responsive: false,
+        plugins: {
+          datalabels: {
+            formatter: function(value, context) {
+              return Math.round(value / context.dataset.total * 100) + '%';
+            },
+            color: '#fff'
+          }
+        }
+      }
+    });
+  </script>
+</body>
+</html>
+
+
 	<!-- Quote -->
 	<div class="quote">
 		<div class="container text-centered">
