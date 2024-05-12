@@ -126,8 +126,16 @@ a:hover {
   margin-left: 0px; }
   .award .award-list li:first-child {
     font-size: 0.9375em;
-    color: #8c8c8c; }
+    color: #8c8c8c; }  
 
+
+.projects .projects-list {
+  margin-left: 0px; }
+  .projects .projects-list li:first-child {
+    font-size: 0.9375em;
+    color: #8c8c8c; }       
+    
+    
 .skills .skill-list {
   margin-left: 0px; }
   .skills .skill-list li:first-child {
@@ -153,3 +161,5 @@ footer {
       font-size: 1.25em;
       color: #999999; }
 
+          
+     
