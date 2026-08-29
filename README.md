@@ -10,6 +10,6 @@ Currently exploring new technologies, joining hackathons, and turning ideas into
 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/86dcdecd-be4f-465a-bafc-474a6ca81092" alt="Avatar" width="220" />
+  <img src="https://github.com/user-attachments/assets/86dcdecd-be4f-465a-bafc-474a6ca81092" alt="Avatar" width="220" style="border: 2px solid #30363d; border-radius: 8px; padding: 10px;" />
 </p>
 
