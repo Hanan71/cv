@@ -7,9 +7,11 @@ I enjoy creating hardware devices, connecting physical tools to web applications
 Currently exploring new technologies, joining hackathons, and turning ideas into practical solutions.
 
 
-View My CV page 📄
-https://hanan71.github.io/cv/
-
+<a href="https://hanan71.github.io/cv/">
+  <kbd style="padding: 8px 16px; font-size: 15px; background-color: #f6f8fa; color: #24292f; border: 1px solid #d0d7de; border-radius: 6px; box-shadow: 0 1px 0 rgba(27,31,36,0.04); cursor: pointer;">
+    📄 View My CV
+  </kbd>
+</a>
 
 
 <p align="center">
