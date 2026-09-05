@@ -6,19 +6,25 @@ I enjoy creating hardware devices, connecting physical tools to web applications
 
 Currently exploring new technologies, joining hackathons, and turning ideas into practical solutions.
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/hanan-abdallah-6822a419b" target="_blank">
-    <img width="35" valign="middle" alt="LinkedIn" src="https://github.com/user-attachments/assets/8472fbeb-bd51-4c77-9f21-ff050a726318" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://hanan71.github.io/cv/">
-    <img valign="middle" alt="View My CV" src="https://img.shields.io/badge/%20-View%20My%20CV-24292f?style=for-the-badge&logo=google-chrome&logoColor=ffffff&labelColor=0969da" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/Hanan71/cv/blob/main/Hanan_Abdallah_CV_English.pdf">
-    <img valign="middle" alt="Download My CV" src="https://img.shields.io/badge/Download%20My%20CV-📄-0969da?style=for-the-badge&logoColor=ffffff&labelColor=24292f&color=0969da" />
-  </a>
-</p>
+<table border="0">
+  <tr>
+    <td valign="middle" style="border: none;">
+      <a href="https://www.linkedin.com/in/hanan-abdallah-6822a419b" target="_blank">
+        <img width="35" alt="LinkedIn" src="https://github.com/user-attachments/assets/8472fbeb-bd51-4c77-9f21-ff050a726318" />
+      </a>
+    </td>
+    <td valign="middle" style="border: none;">
+      <a href="https://hanan71.github.io/cv/">
+        <img alt="View My CV" src="https://img.shields.io/badge/%20-View%20My%20CV-24292f?style=for-the-badge&logo=google-chrome&logoColor=ffffff&labelColor=0969da" />
+      </a>
+    </td>
+    <td valign="middle" style="border: none;">
+      <a href="https://github.com/Hanan71/cv/blob/main/Hanan_Abdallah_CV_English.pdf">
+        <img alt="Download My CV" src="https://img.shields.io/badge/Download%20My%20CV-📄-0969da?style=for-the-badge&logoColor=ffffff&labelColor=24292f&color=0969da" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 
 
