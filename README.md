@@ -6,7 +6,9 @@ I enjoy creating hardware devices, connecting physical tools to web applications
 
 Currently exploring new technologies, joining hackathons, and turning ideas into practical solutions.
 
->>[![View My CV](https://img.shields.io/badge/View%20My%20CV-Web-0969da?style=for-the-badge&logo=google-chrome&logoColor=ffffff&labelColor=24292f&color=0969da)](https://hanan71.github.io/cv/)
+>[![View My CV](https://img.shields.io/badge/View%20My%20CV-Web-24292f?style=for-the-badge&logo=google-chrome&logoColor=ffffff&labelColor=0969da)](https://hanan71.github.io/cv/)
+
+>[![View My CV](https://img.shields.io/badge/View%20My%20CV-🌐%20Web-0969da?style=for-the-badge&logoColor=ffffff&labelColor=24292f)](https://hanan71.github.io/cv/)
 
 >[![Download My CV](https://img.shields.io/badge/Download%20My%20CV-📄-0969da?style=for-the-badge&logoColor=ffffff&labelColor=24292f&color=0969da)](https://github.com/Hanan71/cv/blob/main/Hanan_Abdallah_CV_English.pdf)
 
